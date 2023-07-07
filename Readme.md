@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-##This is a project from the odin project  https://www.theodinproject.com/lessons/node-path-javascript-tic-tac-toe
+
 
 
 This project was fun to create for one. It tested my use of Dom manipulation using Javascript. I also got to use some logic with defining the rules for the game. I used arithmetic functions to help create the borders for the boxes. I will add to this project by adding an ai that is unbeatable.
